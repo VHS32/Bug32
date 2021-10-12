@@ -4,7 +4,7 @@ A win32 malware which created by BeRkaY_ThE_CoDeR. Found the sample on a random 
 # Instruction
 In this executable there's a stack in resource whicch almost 2.50 megabytes. In this resource code, there's source code too and the unpacker which will unpack it.
 
-[Image](https://i.imgur.com/OuOLGle.png)
+[!img](https://i.imgur.com/OuOLGle.png)
 
 # Note
 pretty dead
